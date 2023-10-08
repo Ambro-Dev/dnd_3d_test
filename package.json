@@ -1,0 +1,31 @@
+{
+  "name": "r3f-draggable-instances",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/drei": "7.7.0",
+    "@react-three/fiber": "8.0.0-alpha-06",
+    "@types/three": "0.131.0",
+    "leva": "0.9.13",
+    "react": "0.0.0-experimental-50263d327-20210914",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3",
+    "three": "0.132.2",
+    "uuid-quick": "0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
